@@ -23,6 +23,11 @@
     "@angular/forms": "^8.2.14",
     "@angular/platform-browser": "^8.2.14",
     "@angular/platform-browser-dynamic": "^8.2.14",
+    "@angular/pwa": "^0.803.23",
+    "@angular/router": "^8.2.14",
+    "@ionic-native/core": "5.0.0-beta.15",
+    "@ionic/angular": "^5.1.1",
+    "@ionic/storage": "^2.1.3",
     "rxjs": "^6.5.4",
     "tslib": "^1.10.0",
     "zone.js": "~0.9.1"
