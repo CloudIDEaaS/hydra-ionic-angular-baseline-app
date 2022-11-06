@@ -87,8 +87,6 @@ dull, and drone.  It does this while at the same time, allowing for creativity a
 
 ### Razor Syntax
 
-![Razor Syntax]
-
 ```cs
 @using Ripley.Entities
 @using AbstraX
