@@ -5,7 +5,6 @@ import { IonicModule } from "@ionic/angular";
 import { IonicStorageModule } from "@ionic/storage";
 import { AppRoutingModule } from "./app-routing.module";
 import { AppComponent } from "./app.component";
-import { environment } from "../environments/environment";
 import { FormsModule } from "@angular/forms";
 
 @NgModule({
